@@ -1,10 +1,3 @@
-# UdonBase64
-
-Base64 decoder for UdonSharp.
-
-## Example
-
-```cs
 using UnityEngine;
 using UdonSharp;
 using Koyashiro.UdonBase64;
@@ -34,4 +27,3 @@ public class UdonBase64Sample : UdonSharpBehaviour
         Debug.Log($"0x{bytes[15]:x2}"); // 0x84
     }
 }
-```

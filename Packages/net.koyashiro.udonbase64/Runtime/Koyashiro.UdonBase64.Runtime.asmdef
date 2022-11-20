@@ -1,0 +1,15 @@
+{
+    "name": "Koyashiro.UdonBase64.Runtime",
+    "references": [
+        "Koyashiro.UdonException.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
